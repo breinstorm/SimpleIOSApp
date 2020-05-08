@@ -19,5 +19,9 @@ class MyCustomButton : UIButton
         super.init(coder: coder)
     }
     
+    func setMyButton()
+    {
+        
+    }
     
 }
